@@ -1,11 +1,19 @@
-A SIMPLE CHAT APP DEVELOPED BASED ON SPRINGBOOT, WEBSOCKET AND KAFKA
+## A SIMPLE CHAT APP DEVELOPED BASED ON SPRINGBOOT, WEBSOCKET AND KAFKA
 
-# TECHNOLOGIES
+### TECHNOLOGIES
+- BACKEND: Spring Boot
+- FRONTEND: React JS
+- DEPLOYMENT: Docker
+- REAL-TIME: WebSocket, SockJs for ReactJS
+- TOOLS: Zookeeper, Kafka
+- OTHERS: 
+### PREPARATION
+Config requirement: 
+### INSTALLATION
+First, you need to install these following necessary tools:
+1. Zookeeper
+2. Kafka
 
-# PREPARATION
+### DEPLOY AND RUN
 
-# INSTALLATION
-
-# DEPLOY AND RUN
-
-# UI
+### UI
